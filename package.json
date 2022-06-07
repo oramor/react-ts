@@ -1,0 +1,8 @@
+{
+  "name": "react-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:oramor/react-ts.git",
+  "author": "Roman Rodin <romaro83@gmail.com>",
+  "license": "MIT"
+}
