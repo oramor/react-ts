@@ -1,8 +1,20 @@
 {
   "name": "react-ts",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
+  "scripts": {
+    "b": "tsc",
+    "serv": "webpack serve"
+  },
   "repository": "git@github.com:oramor/react-ts.git",
   "author": "Roman Rodin <romaro83@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.14",
+    "webpack-dev-server": "^4.9.2"
+  }
 }
