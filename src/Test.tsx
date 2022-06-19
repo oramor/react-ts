@@ -1,6 +1,6 @@
 //import React from 'react';
 
-function Test() {
+export function Test() {
     return (
         <div id="testRoot">
             <h1>Hello!</h1>
